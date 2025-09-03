@@ -115,22 +115,20 @@ private void KeyIsDown(object sender, KeyEventArgs e)
  }
 ```
 ## Vuokaavio
-<img width="656" height="799" alt="vuokaaviopong" src="https://github.com/user-attachments/assets/d7194242-1639-4b35-b160-2899f2a2a15d" />
+<img width="656" height="799" alt="vuokaaviopong" src="https://github.com/user-attachments/assets/52e837a3-8bad-4240-84e2-47f2d20a0765" />
 
 
 
 ## Pelin Yleiskuvaa
-  <img width="899" height="552" alt="pong yleiskuva" src="https://github.com/user-attachments/assets/190df8d9-5b55-4b6e-a327-e6211c5c083b" />
+ <img width="899" height="552" alt="pong yleiskuva" src="https://github.com/user-attachments/assets/9062e4c4-9ab3-4719-83d9-2d2e831ddc2b" />
+
 
 ## Pelaaja häviää
-<img width="898" height="557" alt="häviö" src="https://github.com/user-attachments/assets/6bbeac2e-747c-48c7-9f04-74cd0135b757" />
+<img width="898" height="557" alt="häviö" src="https://github.com/user-attachments/assets/558b83ff-eb70-48dc-973c-1f815e432047" />
 
 ## Pelaaja voittaa
-<img width="891" height="551" alt="voitto" src="https://github.com/user-attachments/assets/6fd4e883-24cd-486f-8894-0ba3e605be18" />
+<img width="891" height="551" alt="voitto" src="https://github.com/user-attachments/assets/1489fd4f-191f-4d23-96ad-aa1cd699db06" />
+
 
 ## Video
-https://github.com/user-attachments/assets/f1fbed40-5c57-4288-b509-40badf89b44d
-
-"# PongPeli" 
-"# Pong" 
-"# Pong" 
+https://github.com/user-attachments/assets/373e0fd5-2258-47ba-bf37-a0ed63435563 
