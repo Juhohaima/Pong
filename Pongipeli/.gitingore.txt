@@ -1,0 +1,17 @@
+# Visual Studio -tiedostot
+.vs/
+*.user
+*.suo
+
+# Binäärit ja build-väliaikaistiedostot
+bin/
+obj/
+Debug/
+Release/
+*.exe
+*.dll
+*.pdb
+
+# Muut turhat
+*.log
+*.tmp

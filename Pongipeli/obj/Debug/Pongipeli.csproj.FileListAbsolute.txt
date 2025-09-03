@@ -1,0 +1,10 @@
+C:\Users\s4haju03\source\repos\Pongipeli\Pongipeli\obj\Debug\Pongipeli.csproj.AssemblyReference.cache
+C:\Users\s4haju03\source\repos\Pongipeli\Pongipeli\obj\Debug\Pongipeli.Form1.resources
+C:\Users\s4haju03\source\repos\Pongipeli\Pongipeli\obj\Debug\Pongipeli.Properties.Resources.resources
+C:\Users\s4haju03\source\repos\Pongipeli\Pongipeli\obj\Debug\Pongipeli.csproj.GenerateResource.cache
+C:\Users\s4haju03\source\repos\Pongipeli\Pongipeli\obj\Debug\Pongipeli.csproj.CoreCompileInputs.cache
+C:\Users\s4haju03\source\repos\Pongipeli\Pongipeli\bin\Debug\PongGame.exe.config
+C:\Users\s4haju03\source\repos\Pongipeli\Pongipeli\bin\Debug\PongGame.exe
+C:\Users\s4haju03\source\repos\Pongipeli\Pongipeli\bin\Debug\PongGame.pdb
+C:\Users\s4haju03\source\repos\Pongipeli\Pongipeli\obj\Debug\PongGame.exe
+C:\Users\s4haju03\source\repos\Pongipeli\Pongipeli\obj\Debug\PongGame.pdb

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pongipeli", "Pongipeli\Pongipeli.csproj", "{52DC41BB-AED4-4433-A2DF-FD0A7D561255}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PongPeliSetup", "PongPeliSetup\PongPeliSetup.vdproj", "{C7DBE07C-BC37-4183-0901-EC88FE5286C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52DC41BB-AED4-4433-A2DF-FD0A7D561255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DC41BB-AED4-4433-A2DF-FD0A7D561255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DC41BB-AED4-4433-A2DF-FD0A7D561255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DC41BB-AED4-4433-A2DF-FD0A7D561255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7DBE07C-BC37-4183-0901-EC88FE5286C4}.Debug|Any CPU.ActiveCfg = Debug
+		{C7DBE07C-BC37-4183-0901-EC88FE5286C4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDCFF4F5-719D-4A04-8253-81B4AC3D899C}
+	EndGlobalSection
+EndGlobal
